@@ -1,1 +1,1 @@
-![ADV's GitHub stats](https://github-readme-stats.vercel.app/api?username=talidag&show_icons=true&theme=ayu-mirage) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talidag&hide=html,css&theme=ayu-mirage)
+![ADV's GitHub stats](https://github-readme-stats.vercel.app/api?username=adevien&show_icons=true&theme=ayu-mirage) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adevien&hide=html,css&theme=ayu-mirage)
